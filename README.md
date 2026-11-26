@@ -1,11 +1,11 @@
-# 👨🏻‍💻 Pedro Sampaio
+#  Pedro Sampaio
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Pedro%20Sampaio&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20%7C%20Technology%20%7C%20Innovation&descAlignY=55&descSize=17" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/P3dr022">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Status-Always%20Learning-7B68EE?style=for-the-badge&logo=githubsponsors&logoColor=white" />
@@ -14,7 +14,7 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+## Sobre mim
 
 Olá! Sou Pedro Sampaio, **bacharelando em Ciência da Computação pela Universidade Federal de Rondônia (UNIR)**.
 
@@ -95,7 +95,6 @@ Atualmente, venho aprofundando meus conhecimentos em desenvolvimento de sistemas
 
 | Projeto / Área | Descrição |
 |---|---|
-| 🗺️ Geoprocessamento | Estudos sobre análise de vegetação e processamento de imagens. |
 | 💻 Arquitetura de Computadores | Desenvolvimento de simuladores educacionais em C e Python. |
 | ☕ Desenvolvimento Java | Aplicações com POO, interfaces gráficas e comunicação entre sistemas. |
 | 📊 Ciência de Dados | Estudos de análise, visualização de dados e Machine Learning. |
@@ -104,23 +103,13 @@ Atualmente, venho aprofundando meus conhecimentos em desenvolvimento de sistemas
 ---
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=P3dr022&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=P3dr022&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<p align="center">
+  <img width="35%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=P3dr022&theme=tokyonight" />
+  <img width="35%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=P3dr022&theme=tokyonight" />
 </p>
+
 
 
 
