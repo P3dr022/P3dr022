@@ -65,7 +65,7 @@ Atualmente, venho aprofundando meus conhecimentos em desenvolvimento de sistemas
 ### Linguagens de programação
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,&theme=dark" />
 </p>
 
 ### Banco de dados
